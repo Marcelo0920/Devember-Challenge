@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "numberOfStars": 5,
+    "rating": 4.8,
+    "price": 85,
+    "latitude": -17.784518,
+    "longitude": -63.181792,
+    "title": "Lujoso apartamento en el centro",
+    "image": "https://example.com/images/apt1.jpg"
+  },
+  {
+    "id": 2,
+    "numberOfStars": 4,
+    "rating": 4.5,
+    "price": 60,
+    "latitude": -17.773092,
+    "longitude": -63.182927,
+    "title": "Apartamento moderno cerca de todo",
+    "image": "https://example.com/images/apt2.jpg"
+  },
+  {
+    "id": 3,
+    "numberOfStars": 3,
+    "rating": 3.9,
+    "price": 45,
+    "latitude": -17.761478,
+    "longitude": -63.1825,
+    "title": "Estudio económico en la ciudad",
+    "image": "https://example.com/images/apt3.jpg"
+  },
+  {
+    "id": 4,
+    "numberOfStars": 4,
+    "rating": 4.3,
+    "price": 70,
+    "latitude": -17.777244,
+    "longitude": -63.175604,
+    "title": "Apartamento con vista panorámica",
+    "image": "https://example.com/images/apt4.jpg"
+  },
+  {
+    "id": 5,
+    "numberOfStars": 3,
+    "rating": 3.7,
+    "price": 50,
+    "latitude": -17.782001,
+    "longitude": -63.178915,
+    "title": "Cómodo apartamento en zona residencial",
+    "image": "https://example.com/images/apt5.jpg"
+  },
+  {
+    "id": 6,
+    "numberOfStars": 5,
+    "rating": 4.9,
+    "price": 120,
+    "latitude": -17.771813,
+    "longitude": -63.174917,
+    "title": "Piso de lujo en el centro de la ciudad",
+    "image": "https://example.com/images/apt6.jpg"
+  },
+  {
+    "id": 7,
+    "numberOfStars": 4,
+    "rating": 4.6,
+    "price": 80,
+    "latitude": -17.7651,
+    "longitude": -63.17974,
+    "title": "Amplio apartamento con buena ubicación",
+    "image": "https://example.com/images/apt7.jpg"
+  },
+  {
+    "id": 8,
+    "numberOfStars": 3,
+    "rating": 3.8,
+    "price": 55,
+    "latitude": -17.773601,
+    "longitude": -63.176381,
+    "title": "Apartamento económico con todas las comodidades",
+    "image": "https://example.com/images/apt8.jpg"
+  },
+  {
+    "id": 9,
+    "numberOfStars": 4,
+    "rating": 4.2,
+    "price": 65,
+    "latitude": -17.759382,
+    "longitude": -63.183732,
+    "title": "Apartamento moderno cerca de parques",
+    "image": "https://example.com/images/apt9.jpg"
+  },
+  {
+    "id": 10,
+    "numberOfStars": 5,
+    "rating": 4.7,
+    "price": 95,
+    "latitude": -17.770489,
+    "longitude": -63.180101,
+    "title": "Penthouse exclusivo en Santa Cruz",
+    "image": "https://example.com/images/apt10.jpg"
+  }
+]

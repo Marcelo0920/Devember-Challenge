@@ -7,7 +7,7 @@
     "latitude": -17.784518,
     "longitude": -63.181792,
     "title": "Lujoso apartamento en el centro",
-    "image": "https://example.com/images/apt1.jpg"
+    "image": "https://www.kayak.bo/rimg/himg/a4/09/c9/leonardo-2141937-1_DOUBLE_BED_APARTMENT_WITH_TERRACE_9_O-559496.jpg?width=1366&height=768&crop=true"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "latitude": -17.773092,
     "longitude": -63.182927,
     "title": "Apartamento moderno cerca de todo",
-    "image": "https://example.com/images/apt2.jpg"
+    "image": "https://cf.bstatic.com/static/img/theme-index/bg_apartments_new/5062c4701202cd04226b76a5a70f8651ee9d94d8.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "latitude": -17.761478,
     "longitude": -63.1825,
     "title": "Estudio económico en la ciudad",
-    "image": "https://example.com/images/apt3.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTAWdfzY0YyS6QhE2fhEkRIUqk1n77mJiig&s"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "latitude": -17.777244,
     "longitude": -63.175604,
     "title": "Apartamento con vista panorámica",
-    "image": "https://example.com/images/apt4.jpg"
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502711137.jpg?k=3dc279c41fd7c3812746b3ff2a67a53a7be097f040db3995d401999aeeb6b157&o=&hp=1"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "latitude": -17.782001,
     "longitude": -63.178915,
     "title": "Cómodo apartamento en zona residencial",
-    "image": "https://example.com/images/apt5.jpg"
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319473207.jpg?k=18fe2440fe32eb307ff92d523645ea33e0bb6e57c8e9f919b0dfbf9c818fa05b&o=&hp=1"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "latitude": -17.771813,
     "longitude": -63.174917,
     "title": "Piso de lujo en el centro de la ciudad",
-    "image": "https://example.com/images/apt6.jpg"
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439297267.jpg?k=6426b6b9d6c88ffa45112c10215f4861543a6ddf8a3880363ca1f67a2355197b&o=&hp=1"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "latitude": -17.7651,
     "longitude": -63.17974,
     "title": "Amplio apartamento con buena ubicación",
-    "image": "https://example.com/images/apt7.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFomMgfo-HhPef4BACmwjP2r5N-8gFZgGOYw&s"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "latitude": -17.773601,
     "longitude": -63.176381,
     "title": "Apartamento económico con todas las comodidades",
-    "image": "https://example.com/images/apt8.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI31XJ8mL-eD4RDVdcYhwRaKLJkF3dn9USCw&s"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "latitude": -17.759382,
     "longitude": -63.183732,
     "title": "Apartamento moderno cerca de parques",
-    "image": "https://example.com/images/apt9.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdqkWTOR5Eluw6jvB9hno9hd7PAklruyRDPA&s"
   },
   {
     "id": 10,
@@ -97,6 +97,6 @@
     "latitude": -17.770489,
     "longitude": -63.180101,
     "title": "Penthouse exclusivo en Santa Cruz",
-    "image": "https://example.com/images/apt10.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2lBXqEyp0bkDcz6D7O3HDcKk9b20fPUJPg&s"
   }
 ]

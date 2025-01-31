@@ -2,9 +2,11 @@ import { View, Text } from "react-native";
 import React from "react";
 import { Marker } from "react-native-maps";
 
-export default function CustomMarkerComponent({ apartment }) {
+export default function CustomMarkerComponent({ apartment, onPress }) {
+  console.log("quiero aparecerrrrr");
   return (
     <Marker
+      onPress={onPress}
       coordinate={{
         latitude: apartment.latitude,
         longitude: apartment.longitude,
